@@ -10,7 +10,7 @@
     "youtube api",
     "youtube"
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf .tmp && rimraf dist",
     "transpile": "./node_modules/.bin/ngc",
