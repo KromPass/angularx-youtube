@@ -1,0 +1,1 @@
+{"version":3,"file":"youtube.component.ngfactory.js","sourceRoot":"","sources":["../src/youtube.component.ngfactory.ts","../src/youtube.component.ts.YoutubeComponent.html"],"names":[],"mappings":";;;;;;;;;;;;;kECAA,mGAAwB","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n","<div id=\"playerElement\"></div>"]}

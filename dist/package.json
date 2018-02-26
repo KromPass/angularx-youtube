@@ -1,0 +1,35 @@
+{
+	"name": "angularx-youtube",
+	"version": "1.0.0",
+	"description": "Wot!",
+	"main": "bundles/angularx-youtube.umd.min.js",
+	"module": "index.js",
+	"typings": "index.d.ts",
+	"keywords": [
+		"angular 5",
+		"ng",
+		"ng 5",
+		"angular youtube",
+		"youtube api",
+		"youtube"
+	],
+	"author": {
+		"name": "",
+		"email": ""
+	},
+	"license": "",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"homepage": "",
+	"bugs": {
+		"url": ""
+	},
+	"peerDependencies": {
+		"@angular/common": "^5.0.0",
+		"@angular/core": "^5.0.0",
+		"rxjs": "^5.0.3",
+		"zone.js": "^0.8.4"
+	}
+}

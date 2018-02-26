@@ -1,0 +1,1 @@
+{"version":3,"file":"youtube.interface.js","sourceRoot":"","sources":["../src/youtube.interface.ts"],"names":[],"mappings":"","sourcesContent":["import {} from '@types/youtube';\n\nexport interface PlayerConfig {\n    elementId: string,\n    width: number,\n    height: number,\n    videoId?: string,\n    outputs: {\n        ready: any,\n        change: any\n    }\n}\n"]}
