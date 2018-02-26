@@ -12,7 +12,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm install && npm run build",
+    "install": "npm install && npm run build",
     "clean": "rimraf .tmp && rimraf dist",
     "transpile": "./node_modules/.bin/ngc",
     "package": "rollup -c",
